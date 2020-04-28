@@ -30,33 +30,33 @@ from requests import get
 
 # Data and Image Scraping the "TOP 200 Best Indian Celebrities Of India" website of IMDb
 
-1. importing all the necessary libraries.
+1. Import all necessary libraries.
 
-2. To go to the IMDB website. Click on this link: https://www.imdb.com/list/ls068010962/
+2. To go to the IMDB website, click on this link: https://www.imdb.com/list/ls068010962/
 
-![image](https://user-images.githubusercontent.com/54140890/80499110-2fe12d80-898a-11ea-9c59-3ff71607dfb3.png)
+![image](https://user-images.githubusercontent.com/54140890/80506412-2a3c1580-8993-11ea-8ac0-2d9e9bfc1585.png)
 
 3. Now, Right click anywhere on the screen and select 'Inspect' .
 
-![image](https://user-images.githubusercontent.com/54140890/80498910-eb559200-8989-11ea-9b00-82536c499a78.png)
+![image](https://user-images.githubusercontent.com/54140890/80506426-30ca8d00-8993-11ea-8725-23dc13c1aa0f.png)
 
 4. Find the Elements that correspond to the data we're getting.
 
-![image](https://user-images.githubusercontent.com/54140890/80499002-0f18d800-898a-11ea-95f4-d93d9f736973.png)
+![image](https://user-images.githubusercontent.com/54140890/80506602-725b3800-8993-11ea-9341-2e07aba329a5.png)
 
 5. Make a note of the TAGS as well as the Attributes like class, id, etc. We'll use that later.
 
-6. Then follow the Indian_Movie_Celebrities_Database_Generator.ipynb file available in this repository. A detailed explanation of the      code is explained in the .ipynb file.
+6. Then follow the Indian_Movie_Celebrities_Database_Generator.ipynb file available in this repository. A detailed explanation of the      code is provided in the .ipynb file.
 
 7. After running the .ipynb file, the generated DataFrame containing information of 200 celebrities is displayed as a table 
    in a browser as shown below:
    From celebrity 1
 
-![image](https://user-images.githubusercontent.com/54140890/80499673-e80ed600-898a-11ea-8e8b-f79d2898c914.png)
+![image](https://user-images.githubusercontent.com/54140890/80506713-9880d800-8993-11ea-8b9e-19f268409297.png)
 
    Right until the 200th Celebrity!!!
    
-![image](https://user-images.githubusercontent.com/54140890/80504288-8cdfe200-8990-11ea-813a-8519bf5d495a.png)
+![image](https://user-images.githubusercontent.com/54140890/80506763-a6365d80-8993-11ea-84cd-8b67c1c1c81c.png)
 
 
 # Uploaded Files Information
