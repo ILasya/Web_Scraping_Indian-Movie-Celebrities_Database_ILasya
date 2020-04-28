@@ -46,15 +46,15 @@ from requests import get
 
 5. Make a note of the TAGS as well as the Attributes like class, id, etc. We'll use that later.
 
-6. Then follow the Indian_Movie_Celebrities_Database_Generator.ipynb file available in this repository. A detailed expalaniton of the      code is explained in the .ipynb file.
+6. Then follow the Indian_Movie_Celebrities_Database_Generator.ipynb file available in this repository. A detailed explanation of the      code is explained in the .ipynb file.
 
-7. After running the .ipynb file, the gennerated DataFrame containing information of 200 celebrities is displayed as a table 
+7. After running the .ipynb file, the generated DataFrame containing information of 200 celebrities is displayed as a table 
    in a .html website as shown below:
    From celebrity 1
 
 ![image](https://user-images.githubusercontent.com/54140890/80499673-e80ed600-898a-11ea-8e8b-f79d2898c914.png)
 
-   Right upto the 200th Celebrity!!!
+   Right until the 200th Celebrity!!!
    
 ![image](https://user-images.githubusercontent.com/54140890/80504288-8cdfe200-8990-11ea-813a-8519bf5d495a.png)
 
