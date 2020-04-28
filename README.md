@@ -40,7 +40,7 @@ from requests import get
 
 ![image](https://user-images.githubusercontent.com/54140890/80507603-a125de00-8994-11ea-80a9-532e9cf3f32d.png)
 
-4. Find the Elements that correspond to the data we're getting.
+4. Find the Elements that correspond to the data we want to extract.
 
 ![image](https://user-images.githubusercontent.com/54140890/80508070-345f1380-8995-11ea-90d0-3f1294f8e785.png)
 
@@ -50,6 +50,7 @@ from requests import get
 
 7. After running the .ipynb file, the generated DataFrame containing information of 200 celebrities is displayed as a table 
    in a browser as shown below:
+   
    From celebrity 1
 
 ![image](https://user-images.githubusercontent.com/54140890/80508141-4b056a80-8995-11ea-8910-233ecfab799f.png)
