@@ -28,7 +28,7 @@ from bs4 import BeautifulSoup
 
 from requests import get
 
-# Data and Image Scraping the TOP 200 Best Indian Celebrities Of India in IMDb
+# Data and Image Scraping the "TOP 200 Best Indian Celebrities Of India" website of IMDb
 
 1. importing all the necessary libraries
 
