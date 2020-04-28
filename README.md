@@ -34,15 +34,15 @@ from requests import get
 
 2. To go to the IMDB website, click on this link: https://www.imdb.com/list/ls068010962/
 
-![image](https://user-images.githubusercontent.com/54140890/80506412-2a3c1580-8993-11ea-8ac0-2d9e9bfc1585.png)
+![image](https://user-images.githubusercontent.com/54140890/80507558-94a18580-8994-11ea-9297-4a2d75d98d9f.png)
 
 3. Now, Right click anywhere on the screen and select 'Inspect' .
 
-![image](https://user-images.githubusercontent.com/54140890/80506426-30ca8d00-8993-11ea-8725-23dc13c1aa0f.png)
+![image](https://user-images.githubusercontent.com/54140890/80507603-a125de00-8994-11ea-80a9-532e9cf3f32d.png)
 
 4. Find the Elements that correspond to the data we're getting.
 
-![image](https://user-images.githubusercontent.com/54140890/80506602-725b3800-8993-11ea-9341-2e07aba329a5.png)
+![image](https://user-images.githubusercontent.com/54140890/80508070-345f1380-8995-11ea-90d0-3f1294f8e785.png)
 
 5. Make a note of the TAGS as well as the Attributes like class, id, etc. We'll use that later.
 
@@ -52,11 +52,12 @@ from requests import get
    in a browser as shown below:
    From celebrity 1
 
-![image](https://user-images.githubusercontent.com/54140890/80506713-9880d800-8993-11ea-8b9e-19f268409297.png)
+![image](https://user-images.githubusercontent.com/54140890/80508141-4b056a80-8995-11ea-8910-233ecfab799f.png)
 
    Right until the 200th Celebrity!!!
    
-![image](https://user-images.githubusercontent.com/54140890/80506763-a6365d80-8993-11ea-84cd-8b67c1c1c81c.png)
+![image](https://user-images.githubusercontent.com/54140890/80508196-5ce70d80-8995-11ea-9d86-e2b3a744f9fa.png)
+
 
 
 # Uploaded Files Information
