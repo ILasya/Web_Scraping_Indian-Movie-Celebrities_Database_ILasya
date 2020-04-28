@@ -28,15 +28,25 @@ from requests import get
 # Data and Image Scraping the TOP 200 Best Indian Celebrities Of India in IMDb
 
 1. importing all the necessary libraries
+
 2. To go to the IMDB website. Click on this link: https://www.imdb.com/list/ls068010962/
+
 ![image](https://user-images.githubusercontent.com/54140890/80499110-2fe12d80-898a-11ea-9c59-3ff71607dfb3.png)
+
 3. Now, Right click anywhere on the screen and select 'Inspect' 
+
 ![image](https://user-images.githubusercontent.com/54140890/80498910-eb559200-8989-11ea-9b00-82536c499a78.png)
+
 4. Find the Elements that correspond to the data we're getting.
+
 ![image](https://user-images.githubusercontent.com/54140890/80499002-0f18d800-898a-11ea-95f4-d93d9f736973.png)
+
 5. Make a note of the TAGS as well as the Attributes like class, id, etc. We'll use that later.
+
 6. Then follow the Indian_Movie_Celebrities_Database_Generator.ipynb file available in this repository.
+
 7. After running the .ipynb file, the gennerated DataFrame is displayed as a table in a .html website as shown below:
+
 ![image](https://user-images.githubusercontent.com/54140890/80499673-e80ed600-898a-11ea-8e8b-f79d2898c914.png)
 
 
